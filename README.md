@@ -29,19 +29,19 @@ The dataset used in this project is based on the Vrinda store Data, containing i
 
 🛠 Features & Techniques
 
-Created Age Group for better understanding using **IF-Else condition**
-Creted column for month using formula **(TEXT(G3,"mmm")**
-Card & KPI Visuals
-Bar Charts, Pie Chart
-Clean and minimalistic layout
+- Created Age Group for better understanding using **IF-Else condition**
+- Creted column for month using formula **(TEXT(G3,"mmm")**
+- Card & KPI Visuals
+- Bar Charts, Pie Chart
+- Clean and minimalistic layout
 
 📦 How to Use
 
-Open Vrinda Store Dashboard.xlxs in Excel.
-Explore the dashboard filters and visuals.
-Modify or enhance visuals based on your own analysis needs.
+- Open Vrinda Store Dashboard.xlxs in Excel.
+- Explore the dashboard filters and visuals.
+- Modify or enhance visuals based on your own analysis needs.
 
 🔧 Future Improvements to Vrinda Store Sales
 
-Build predictive models using Power BI and Python scripts
-Feel free to fork this repo or suggest improvements! 🧠
+- Build predictive models using Power BI and Python scripts
+- Feel free to fork this repo or suggest improvements! 🧠
