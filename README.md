@@ -1,6 +1,6 @@
 # Vrinda-Sales-Dashboard 
 
-# Thank you **Rishabh Mishra** 
+Thank you Rishabh Mishra
 
 This project provides an interactive Excel dashboard that analyzes the Vrinda Sales 2022 dataset to uncover patterns in sales, order, Top 5 states, Order by Age group.
 
